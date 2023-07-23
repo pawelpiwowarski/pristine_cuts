@@ -13,4 +13,12 @@ Pristine Cuts is a simple TypeScript project built with Next.js for server-side 
     <img src="./img/1.png" alt="Main App" style="max-width: 50%; height: auto;">
     <figcaption style="font-style: italic; color: #777;">Main App Overview</figcaption>
   </figure>
+ <figure style="text-align: center;">
+    <img src="./img/2.png" alt="Main App" style="max-width: 50%; height: auto;">
+    <figcaption style="font-style: italic; color: #777;">Main App Overview</figcaption>
+  </figure>
+   <figure style="text-align: center;">
+    <img src="./img/3.png" alt="Main App" style="max-width: 50%; height: auto;">
+    <figcaption style="font-style: italic; color: #777;">Main App Overview</figcaption>
+  </figure>
 </div>
