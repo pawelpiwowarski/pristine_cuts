@@ -9,6 +9,6 @@ of trpc for handling the typesafe API calls. Also I use tailwind for styling.
 Spotify API is used for fetching data.
 
 <figure>
-  <img src="./img/1.pngc" alt="Main App" width="50%" height="50%">
+  <img src="./img/1.png" alt="Main App" width="50%" height="50%">
   <figcaption>Main App Overview</figcaption>
 </figure>
